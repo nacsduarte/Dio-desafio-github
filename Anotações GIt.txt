@@ -1,1 +1,17 @@
+Criação de Repositório no Github + alterações
+
+1. Criar no seu perfil do github  https://github.com/nacsduarte um novo repositório público, 
+2. Inicializar o repositório com arquivo README
+3. Pesquisar sobre o gitignore, este arquivo está relacionado as boas práticas, informando os arquivos que devem ser
+ignorados pelo github, deixando indisponível para o público.
+4. Baixar Repositório para sua máquina,  comando git clone (colar linnk e enter)
+5. Atualizar repositório online, da sua máquina para a núvem....Obs: comando git status verifica alterações feitas 
+git add -A ou git add .
+git commit -m "Inclusão das alterações realizadas no arquivo anotações Git.txt"
+git status
+git push origin main
+
+
+
+
 O git bash é um terminal extendido que permite usar o git em sua máquina
